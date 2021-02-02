@@ -41,3 +41,22 @@ Add multiple columns in your main area, for example:
 ##### Get All Your Ducks In A Row
 
 `justify-content` all the things! Make the rows beautiful and laid out _exactly_ as you'd like. That's Flexbox!
+
+##### Some Examples Of Portfolios
+
+Former Student Portfolios:
+
+- [Emma Vanninen](https://emmavanninen.com/)
+- [Chris Brindle](https://hirebrindle.netlify.app/)
+
+And some pro developer sites for inspiration:
+
+- https://mattfarley.ca/
+- https://marty.com/
+- https://albinotonnina.com/
+- https://www.adamhartwig.co.uk/
+- https://jimramsden.com/#
+- https://www.ximenavengoechea.com/
+- https://caferati.me/
+- https://www.dejan.works/about/
+- And no list of developer sites would be complete without this epic creature: http://www.rleonardi.com/interactive-resume/
